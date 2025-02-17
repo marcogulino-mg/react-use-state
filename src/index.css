@@ -68,3 +68,23 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+/* MAIN */
+
+.list-languages {
+  max-width: 600px;
+  display: flex;
+}
+
+.list-languages > div {
+  margin: 0 auto;
+}
+
+.lang-switcher {
+  margin-bottom: 20px;
+}
+
+.lang-description {
+  border: solid 1px grey;
+  border-radius: 5px;
+}

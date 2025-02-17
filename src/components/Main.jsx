@@ -1,10 +1,10 @@
-// Import LearnWebDev.jsx
-import LearnWebDev from "../subcomponents/LearnWebDev";
+// Import LanguageList.jsx
+import LanguagesList from "../subcomponents/LanguagesList";
 
 export default function Main() {
   return (
     <main>
-      <LearnWebDev />
+      <LanguagesList />
     </main>
   );
 }
