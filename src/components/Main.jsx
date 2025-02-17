@@ -1,7 +1,10 @@
+// Import LearnWebDev.jsx
+import LearnWebDev from "../subcomponents/LearnWebDev";
+
 export default function Main() {
   return (
     <main>
-      <h2>Main Content</h2>
+      <LearnWebDev />
     </main>
   );
 }
